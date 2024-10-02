@@ -1,6 +1,7 @@
 Hello, I'm Huzaifa Malik 👋
 
 I'm a BS Cyber Security student at FAST University, Islamabad. I’m passionate about learning and applying my skills in cybersecurity, programming, and software development.
+
 🌱 I’m currently learning:
 
     Python for cybersecurity projects
