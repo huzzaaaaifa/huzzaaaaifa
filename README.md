@@ -26,8 +26,4 @@ I'm a BS Cyber Security student at FAST University, Islamabad. I’m passionate 
     LinkedIn https://www.linkedin.com/in/huzzaaifa/
     Email huzaifa3879@gmail.com
 
-📄 My Certifications
 
-    Intro to Cyber Security (TryHackMe)
-    Completed Pre-Security learning path (TryHackMe)
-    Completed 3 Day Ignite Workshop
