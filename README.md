@@ -26,5 +26,4 @@ I'm a BS Cyber Security student at FAST University, Islamabad. I’m passionate 
     LinkedIn https://www.linkedin.com/in/huzzaaifa/
     Email huzaifa3879@gmail.com
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2847200" style='border:none;'></iframe>
 
